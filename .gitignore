@@ -1,0 +1,15 @@
+# Python virtual environment
+.venv/
+
+# Python / Jupyter cache
+__pycache__/
+.ipynb_checkpoints/
+
+# Editor and macOS files
+.vscode/
+.DS_Store
+._*
+
+# Trained model weights (large files)
+*.pt
+*.pth
